@@ -254,11 +254,6 @@ a:hover {
     font-size: 10rem
 }
 
-img.bw {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%)
-}
-
 div[class^="cv__"] {
     margin: 40px 0px
 }
